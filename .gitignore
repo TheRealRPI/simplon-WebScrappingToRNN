@@ -12,3 +12,6 @@ src/
 .python-version
 pyproject.toml
 uv.lock
+
+# Pedago
+/rendus

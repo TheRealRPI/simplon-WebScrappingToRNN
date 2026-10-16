@@ -54,7 +54,7 @@ flowchart LR
 - Bibliothèques : `requests`, `bs4`, `pandas`, `matplotlib`, `scikit-learn`, `tensorflow` (cf. [`requirements.txt`](requirements.txt))
 
 > [!IMPORTANT]
-> Le TP A interroge le vrai Wikipédia : la collecte dure environ **5 à 10 minutes** (pause d'une seconde entre chaque requête, imposée par les règles d'usage de Wikimedia). Les notebooks se lisent dans l'ordre **A → B → C** ; les chemins de corpus (`CHEMIN_CORPUS`) sont définis en tête de chaque notebook.
+> Le TP A interroge le vrai Wikipédia : la collecte dure environ **30 minutes** pour 1200 articles (pause d'une seconde entre chaque requête, imposée par les règles d'usage de Wikimedia). Les notebooks se lisent dans l'ordre **A → B → C** ; les chemins de corpus (`CHEMIN_CORPUS`) sont définis en tête de chaque notebook.
 
 ## 📁 Structure du projet
 
